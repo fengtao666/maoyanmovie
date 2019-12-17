@@ -20,12 +20,20 @@ module.exports = {
                     '^/ry': ''
                 }
             },
-            // 即将上映接口数据
+            // 即将上映最受热爱接口数据
             '/cs':{
                 target:'http://m.maoyan.com',
                 changeOrigin:true,
                 pathRewrite:{
                     '^/cs' : ''
+                }
+            },
+            // 即将上映电影列表的接口数据
+            '/cm':{
+                target:'http://m.maoyan.com',
+                changeOrigin:true,
+                pathRewrite:{
+                    '^/cm' : ''
                 }
             }
         }
