@@ -1,0 +1,12 @@
+.w(@px){
+    width: unit(@px/@remSize,rem)
+    // unit 给参数一添加参数2的单位  unit(1,px) = 1px   unit(1,rem)=1rem
+}
+
+.fixed(@top,@right,@bottom,@left){
+    position: fixed;
+    top: @top;
+    right: @right;
+    bottom: @bottom;
+    left: @left;
+}
