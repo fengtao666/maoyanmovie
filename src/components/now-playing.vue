@@ -5,7 +5,10 @@
         <div class="content">
           <div class="list" >
             <!-- 每一个电影的内容盒子 -->
-            <div class="item" v-for="(item,index) in nowPlayLists" :key="index">
+            <div class="item" 
+                  v-for="(item,index) in nowPlayLists" 
+                  :key="index"
+                  @click="jump(item.id)">
               <div class="item-box">
                 <!-- 电影图片 -->
                 <div class="avatar">
@@ -66,6 +69,12 @@ export default {
       ar:true,
       // 2D 3D小图标
       ver:true
+    }
+  },
+  methods:{
+    jump(mid){
+      // console.log(mid)
+      this.$router.push(`/cinema/movie/${mid}`)
     }
   },
   created(){

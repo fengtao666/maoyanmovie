@@ -35,6 +35,14 @@ module.exports = {
                 pathRewrite:{
                     '^/cm' : ''
                 }
+            },
+            // 电影详情接口
+            'dm':{
+                target:'http://m.maoyan.com',
+                changeOrigin:true,
+                pathRewrite:{
+                    '^/dm' : ''
+                }
             }
         }
     },

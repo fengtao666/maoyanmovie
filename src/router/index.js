@@ -7,7 +7,8 @@ Vue.use(VueRouter)
 import Cinema from 'pages/Cinema.vue';
 import Movie from 'pages/Movie.vue';
 import My from 'pages/My.vue';
-import comingPlaying from 'components/coming-playing';
+import comingPlaying from 'components/coming-playing.vue';
+import cinemaMovie from 'pages/cinema/movie.vue';
 
 // 创建路由对象
 const router = new VueRouter({
@@ -26,6 +27,10 @@ const router = new VueRouter({
         }
       ]
       
+    },
+    {
+      path:'/cinema/movie/:mid',
+      component:cinemaMovie
     },
     {
       path:'/my',
