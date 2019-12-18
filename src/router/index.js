@@ -9,6 +9,7 @@ import Movie from 'pages/Movie.vue';
 import My from 'pages/My.vue';
 import comingPlaying from 'components/coming-playing.vue';
 import cinemaMovie from 'pages/cinema/movie.vue';
+import Shows from 'pages/Shows.vue';
 
 // 创建路由对象
 const router = new VueRouter({
@@ -39,6 +40,10 @@ const router = new VueRouter({
     {
       path:'/',
       redirect:'/movie'  //重定向
+    },
+    {
+      path:'/shows',
+      component:Shows
     }
   ]
 })

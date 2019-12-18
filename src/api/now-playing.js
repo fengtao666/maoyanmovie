@@ -39,4 +39,8 @@ export const getDetailMovieById = (mid = '1218273') => {
     })
 }
 
+// 获取showDays数据
+
+let url = ''
+
 

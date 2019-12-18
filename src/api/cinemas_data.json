@@ -1,0 +1,599 @@
+{
+    "cinemas": [
+        {
+            "id": 57,
+            "mark": 0,
+            "nm": "永乐国际影城（青松路1店）",
+            "sellPrice": "19.9",
+            "addr": "青浦区青松路37号（近成泰百货）",
+            "distance": "1089.1km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "hallType": [
+                    "4K厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "4K厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减6元"
+            },
+            "showTimes": "18:20 | 19:25 | 20:25"
+        },
+        {
+            "id": 13812,
+            "mark": 0,
+            "nm": "永乐国际影城（青湖东路2店）",
+            "sellPrice": "19.9",
+            "addr": "青浦区青湖东路900号3楼",
+            "distance": "1090.3km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "hallType": [
+                    "杜比全景声厅",
+                    "4K厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "4K厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减6元"
+            },
+            "showTimes": "18:20 | 22:05"
+        },
+        {
+            "id": 26879,
+            "mark": 0,
+            "nm": "联和聚聚影院（车墩店）",
+            "sellPrice": "19.9",
+            "addr": "松江区车墩镇李高路58弄14号-1",
+            "distance": "1110km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 0,
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减6元"
+            },
+            "showTimes": "18:20 | 19:40 | 21:40"
+        },
+        {
+            "id": 27863,
+            "mark": 0,
+            "nm": "邻嘉影院（新百安店）",
+            "sellPrice": "22.9",
+            "addr": "普陀区胶州路1055号新百安商场三楼",
+            "distance": "1091.7km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 0,
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 0,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减4元"
+            },
+            "showTimes": "18:10 | 19:30"
+        },
+        {
+            "id": 125,
+            "mark": 0,
+            "nm": "庆春电影城",
+            "sellPrice": "28",
+            "addr": "徐汇区田林路140号越界创意园区15幢2楼（近苍梧路）",
+            "distance": "1097.8km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 0,
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减6元"
+            },
+            "showTimes": "18:20 | 19:40 | 20:30"
+        },
+        {
+            "id": 25671,
+            "mark": 0,
+            "nm": "中影国线影城（徐汇虹梅广场店）",
+            "sellPrice": "28",
+            "addr": "徐汇区田林路105号虹梅国际广场5楼影城",
+            "distance": "1098km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减2元"
+            },
+            "showTimes": "17:55 | 18:35 | 19:15"
+        },
+        {
+            "id": 27534,
+            "mark": 0,
+            "nm": "中影泰得国际影城（马桥店）",
+            "sellPrice": "28.9",
+            "addr": "闵行区银春路2221弄1号1302室2号2301室",
+            "distance": "1111.7km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 0,
+                "hallType": [
+                    "杜比全景声厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1
+            },
+            "promotion": {},
+            "showTimes": "18:25 | 19:45 | 21:10"
+        },
+        {
+            "id": 27490,
+            "mark": 0,
+            "nm": "新杨湾大光明影城",
+            "sellPrice": "29",
+            "addr": "宝山区江杨南路880号3幢D2-1室",
+            "distance": "1084.7km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 0,
+                "hallType": [
+                    "DTS:X 临境音厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "DTS:X 临境音厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1
+            },
+            "promotion": {},
+            "showTimes": "18:15 | 19:15 | 20:20"
+        },
+        {
+            "id": 24351,
+            "mark": 0,
+            "nm": "金逸影城MX4D（光美上海青浦满天星店）",
+            "sellPrice": "29.9",
+            "addr": "青浦区淀山湖大道399弄满天星广场1号楼4层",
+            "distance": "1088.9km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "hallType": [
+                    "杜比全景声厅",
+                    "4D厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "4D厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减4元"
+            },
+            "showTimes": "18:35 | 19:35 | 20:35"
+        },
+        {
+            "id": 24248,
+            "mark": 0,
+            "nm": "SFC上影国际影城青浦店（富绅家乐福）",
+            "sellPrice": "29.9",
+            "addr": "青浦区公园东路1289弄富绅商业中心广场二楼203-211",
+            "distance": "1089.3km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减2元"
+            },
+            "showTimes": "19:00 | 20:35 | 22:35"
+        },
+        {
+            "id": 25320,
+            "mark": 0,
+            "nm": "太禾影城（江园店）",
+            "sellPrice": "31.1",
+            "addr": "闵行区浦锦路309弄3号地下一层06室B-34",
+            "distance": "1110.7km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减4元"
+            },
+            "showTimes": "18:35 | 20:25 | 21:50"
+        },
+        {
+            "id": 117,
+            "mark": 0,
+            "nm": "大地影院（罗宾森广场店）",
+            "sellPrice": "31.9",
+            "addr": "嘉定区城中路138号罗宾森广场4楼（近清河路）",
+            "distance": "1069.6km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单1张最高立减10元"
+            },
+            "showTimes": "17:55 | 21:50 | 22:40"
+        },
+        {
+            "id": 113,
+            "mark": 0,
+            "nm": "金逸影城（中环店）",
+            "sellPrice": "31.9",
+            "addr": "普陀区金沙江路1628号绿洲中环5号楼（农工商118广场对面）",
+            "distance": "1090km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 0,
+                "hallType": [
+                    "杜比全景声厅",
+                    "DTS:X 临境音厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "DTS:X 临境音厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减4元"
+            },
+            "showTimes": "18:20 | 20:30 | 22:40"
+        },
+        {
+            "id": 9264,
+            "mark": 0,
+            "nm": "耀莱成龙影城（金沙江路店）",
+            "sellPrice": "31.9",
+            "addr": "普陀区真北路818号近铁城市广场北区4层",
+            "distance": "1090.3km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "hallType": [
+                    "4DX厅",
+                    "60帧厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "4DX厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "60帧厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单1张最高立减6元"
+            },
+            "showTimes": "18:30 | 20:25 | 22:30"
+        },
+        {
+            "id": 9221,
+            "mark": 0,
+            "nm": "橙天嘉禾影城（泗泾店）",
+            "sellPrice": "31.9",
+            "addr": "松江区泗泾镇古楼公路1886号2楼（近9号线佘山地铁站）",
+            "distance": "1097.9km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单1张最高立减10元"
+            },
+            "showTimes": "17:55 | 19:10 | 20:00"
+        },
+        {
+            "id": 81,
+            "mark": 0,
+            "nm": "大地影院（华润万家南汇店）",
+            "sellPrice": "31.9",
+            "addr": "浦东新区惠南镇南门大街18号华润万家五楼（鼎基商业广场店）",
+            "distance": "1124.4km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单1张最高立减10元"
+            },
+            "showTimes": "18:10 | 18:50 | 19:20"
+        },
+        {
+            "id": 17360,
+            "mark": 0,
+            "nm": "大光明太禾影城（松江店）",
+            "sellPrice": "32",
+            "addr": "松江区上海松江九峰路118号平高广场401号",
+            "distance": "1106.7km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减4元"
+            },
+            "showTimes": "18:20 | 19:00 | 20:25"
+        },
+        {
+            "id": 52,
+            "mark": 0,
+            "nm": "左岸国际电影城（松江沃尔玛店）",
+            "sellPrice": "32",
+            "addr": "松江区松汇中路568号鹿都沃尔玛广场4楼（近庙前街）",
+            "distance": "1108.1km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减4元"
+            },
+            "showTimes": "18:00 | 19:00 | 19:40"
+        },
+        {
+            "id": 16021,
+            "mark": 0,
+            "nm": "美影国际影城（嘉定商城店）",
+            "sellPrice": "33",
+            "addr": "嘉定区清河路48号嘉定商城5楼",
+            "distance": "1069.7km",
+            "tag": {
+                "allowRefund": 1,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "hallTypeVOList": [],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {
+                "cardPromotionTag": "开卡特惠，首单2张最高立减2元"
+            },
+            "showTimes": "18:30 | 19:30 | 20:35"
+        },
+        {
+            "id": 161,
+            "mark": 0,
+            "nm": "嘉定影剧院",
+            "sellPrice": "33",
+            "addr": "嘉定区城中路149号（城中路人民街）",
+            "distance": "1069.8km",
+            "tag": {
+                "allowRefund": 0,
+                "buyout": 0,
+                "cityCardTag": 0,
+                "deal": 0,
+                "endorse": 1,
+                "hallType": [
+                    "杜比全景声厅",
+                    "4D厅"
+                ],
+                "hallTypeVOList": [
+                    {
+                        "name": "杜比全景声厅",
+                        "url": ""
+                    },
+                    {
+                        "name": "4D厅",
+                        "url": ""
+                    }
+                ],
+                "sell": 1,
+                "snack": 1,
+                "vipTag": "折扣卡"
+            },
+            "promotion": {},
+            "showTimes": "18:40"
+        }
+    ],
+    "movieId": "1218273",
+    "day": "2019-12-18",
+    "random": 1576662598451,
+    "paging": {
+        "hasMore": true,
+        "limit": 20,
+        "offset": 0,
+        "total": 321
+    },
+    "showDays": {
+        "dates": [
+            {
+                "date": "2019-12-18",
+                "isPredate": 0
+            },
+            {
+                "date": "2019-12-19",
+                "isPredate": 0
+            },
+            {
+                "date": "2019-12-20",
+                "isPredate": 0
+            },
+            {
+                "date": "2019-12-21",
+                "isPredate": 0
+            },
+            {
+                "date": "2019-12-22",
+                "isPredate": 0
+            },
+            {
+                "date": "2019-12-23",
+                "isPredate": 0
+            },
+            {
+                "date": "2019-12-24",
+                "isPredate": 0
+            },
+            {
+                "date": "2019-12-25",
+                "isPredate": 0
+            },
+            {
+                "date": "2019-12-26",
+                "isPredate": 0
+            },
+            {
+                "date": "2019-12-27",
+                "isPredate": 0
+            }
+        ]
+    },
+    "resId": "1576662597692"
+}
